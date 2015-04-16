@@ -349,7 +349,7 @@
 				INFOPLIST_FILE = GitManagementViaXcode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "2bb90d87-1d4b-4579-946e-733fed294da9";
+				PROVISIONING_PROFILE = "5a7bc8ec-34f5-4665-8387-84c2d835c2b7";
 			};
 			name = Debug;
 		};
@@ -362,7 +362,7 @@
 				INFOPLIST_FILE = GitManagementViaXcode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "2bb90d87-1d4b-4579-946e-733fed294da9";
+				PROVISIONING_PROFILE = "5a7bc8ec-34f5-4665-8387-84c2d835c2b7";
 			};
 			name = Release;
 		};
