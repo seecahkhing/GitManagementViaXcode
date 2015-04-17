@@ -20,6 +20,8 @@
     NSLog(@"This is just a test...");
     
     NSLog(@"This block of code is from the hotfix branch");
+  
+   NSLog(@"This block of code is from the hotfix branch");
 }
 
 - (void)didReceiveMemoryWarning {
